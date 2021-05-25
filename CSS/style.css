@@ -1,0 +1,39 @@
+h1{
+    color: darkblue;    
+    transition: 1s;
+    transform: translate(50%);
+    
+    
+}
+
+ol:hover{
+    color: orange;
+    transition-duration: 1000ms;
+}
+table{
+    background-color: orchid;
+    margin-left: auto;
+    margin-right: auto;
+}
+img:hover{
+    background-color: blue;
+    
+}
+
+.p2 b{
+    color: cadetblue;
+}
+
+#p2-id{
+    color: crimson;
+}
+.p2{
+    color: darkblue;
+}
+
+
+#slider{
+    overflow: hidden
+}
+
+

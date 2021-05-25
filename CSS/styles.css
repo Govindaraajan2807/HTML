@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    text-align: center;
+  
+}
+
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+form:hover{
+    background-color: cadetblue;
+    transition-duration: 1000ms;
+    
+}
